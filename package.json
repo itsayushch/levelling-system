@@ -1,5 +1,5 @@
 {
-  "name": "leveling-system",
+  "name": "levelling-system",
   "version": "1.0.0",
   "description": "Levelling System for multiple usage.",
   "main": "src/level.js",
