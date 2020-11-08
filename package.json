@@ -1,0 +1,16 @@
+{
+  "name": "leveling-system",
+  "version": "1.0.0",
+  "description": "Levelling System for multiple usage.",
+  "main": "src/level.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "level",
+    "leveling",
+    "ranking"
+  ],
+  "author": "Ayush Chowdhury",
+  "license": "MIT"
+}
