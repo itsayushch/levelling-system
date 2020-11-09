@@ -11,11 +11,11 @@ console.log(level);
 ## Response 
 
 ```js
-	{
-		level: 4,
-		maxLevelExp: 380,
-		currentLevelExp: 30,
-		progressBar: '🔵౦౦౦౦౦౦౦౦౦౦౦౦౦౦',
-		percentage: '8%'
-	}
+{
+	level: 4,
+	maxLevelExp: 380,
+	currentLevelExp: 30,
+	progressBar: '🔵౦౦౦౦౦౦౦౦౦౦౦౦౦౦',
+	percentage: '8%'
+}
 ```
